@@ -5,4 +5,4 @@
 ![ML Flow_pic_3](https://github.com/user-attachments/assets/b9114cc1-28d1-444f-847f-8d45a801b911)
 ![ML Flow_pic_  4](https://github.com/user-attachments/assets/89b16894-4328-4e35-af3b-d6670af11360)
 ![app_1](https://github.com/user-attachments/assets/c2081436-d308-40c9-a8a9-e22d9c90df30)
-
+![app_2](https://github.com/user-attachments/assets/68a39ff7-d87e-48ed-8ead-d34a70275a8d)
